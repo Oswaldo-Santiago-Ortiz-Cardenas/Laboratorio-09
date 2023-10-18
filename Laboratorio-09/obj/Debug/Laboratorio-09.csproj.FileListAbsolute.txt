@@ -1,0 +1,7 @@
+C:\Users\Administrador\Desktop\Laboratorio-09\bin\Debug\Laboratorio-09.exe.config
+C:\Users\Administrador\Desktop\Laboratorio-09\bin\Debug\Laboratorio-09.exe
+C:\Users\Administrador\Desktop\Laboratorio-09\bin\Debug\Laboratorio-09.pdb
+C:\Users\Administrador\Desktop\Laboratorio-09\obj\Debug\Laboratorio-09.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Laboratorio-09\obj\Debug\Laboratorio-09.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Laboratorio-09\obj\Debug\Laboratorio-09.exe
+C:\Users\Administrador\Desktop\Laboratorio-09\obj\Debug\Laboratorio-09.pdb
